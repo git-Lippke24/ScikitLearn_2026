@@ -1,0 +1,13 @@
+{
+  "python.terminal.activateEnvironment": true,
+  "jupyter.notebookFileRoot": "${workspaceFolder}",
+  "notebook.output.textLineLimit": 60,
+  "[python]": {
+    "editor.rulers": [88],
+    "editor.formatOnSave": false
+  },
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/.ipynb_checkpoints": true
+  }
+}

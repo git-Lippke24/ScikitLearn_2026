@@ -1,0 +1,6 @@
+# Windows usa saltos de línea CRLF y Linux LF. Sin este archivo, git te llenará la consola de avisos y, peor, 
+# marcará archivos como modificados cuando solo cambiaron los finales de línea. Esto lo normaliza de una vez.
+
+* text=auto
+*.ipynb text eol=lf
+*.py text eol=lf

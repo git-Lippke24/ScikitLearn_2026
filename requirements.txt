@@ -1,0 +1,14 @@
+# Entorno de aprendizaje de scikit-learn
+# Instalar con:  pip install -r requirements.txt
+
+scikit-learn>=1.5
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+seaborn>=0.13
+scipy>=1.11
+joblib>=1.3
+
+# Para trabajar con notebooks dentro de VSCode
+jupyter>=1.0
+ipykernel>=6.29
