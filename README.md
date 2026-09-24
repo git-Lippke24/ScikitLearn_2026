@@ -140,7 +140,7 @@ ScikitLearn_2026/
 
 ## Checklist de progreso
 
-- [ok] M00 · Entorno y estructura
+- [x] M00 · Entorno y estructura
 - [ ] M01 · El contrato de la API de scikit-learn
 - [ ] M02 · Primer clasificador end-to-end
 - [ ] M03 · Métricas de clasificación
@@ -163,6 +163,7 @@ ScikitLearn_2026/
 
 Una línea por módulo cerrado: qué costó, qué quedó pendiente.
 
-| Módulo | Fecha | Nota |
-| ------ | ----- | ---- |
-|        |       |      |
+| Módulo | Fecha      | Nota                                                        |
+| ------ | ---------- | ----------------------------------------------------------- |
+| M00    | 2026-09-24 | Rutas con pathlib y la diferencia entre raise y try/except. |
+|        |            |                                                             |
